@@ -1,7 +1,7 @@
 # Exercice 1:
 
 Il s'agit pour toi de faire une interface front à partir des données reçues avec l'url suivante :
-kokotweb-staging.herokuapp.com/recrutement/receipts
+http://kokotweb-staging.herokuapp.com/recrutement/receipts
 
 Explication des données reçues:
 Il te faudra exploiter une matrice de dépenses telles qu'elles apparaissent dans notre base de données.
